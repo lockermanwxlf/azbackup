@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "azure-storage-blobs-cpp",
+    "openssl",
+    "azure-identity-cpp"
+  ]
+}
